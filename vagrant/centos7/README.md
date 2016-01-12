@@ -6,12 +6,19 @@
 https://github.com/chiastolite/vagrant-itamae
 ```
 > vagrant plugin install vagrant-itamae
+> vagrant plugin install vagrant-vbguest
+> vagrant plugin install sahara
 ```
 4. vagrant up
 5. itamaeでrecipeが動く。resipeの結果を反映するために、
   vagrant reloadをする。
 6. GUIモードで起動するので、ライセンスの設定をしてやる。
 
+## 起動直後の設定
+
+1. ライセンスの設定をする。画面の指示通りにすれば概ねOK
+2. 言語設定する。これも画面の指示通り。
+3. アプリケーション→システムツール→設定→→設定→プライバシーで、画面ロックをオフにしておく。
 
 ## vagrant up が失敗する場合
 
