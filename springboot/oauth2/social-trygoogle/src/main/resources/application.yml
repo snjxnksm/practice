@@ -1,0 +1,21 @@
+security:
+  oauth2:
+    client:
+      clientId: 204879431445-mvfcj1adp57tiu4n7hdoooi62njfk0ag.apps.googleusercontent.com
+      clientSecret: 15r1E8ndabz27vjYo4fi_NSM
+      accessTokenUri: https://www.googleapis.com/oauth2/v3/token
+      userAuthorizationUri: https://accounts.google.com/o/oauth2/auth
+      clientAuthenticationScheme: query
+      scope: profile email
+      registered-redirect-uri: http://localhost:8080/login
+    resource:
+      userInfoUri: https://www.googleapis.com/plus/v1/people/me
+
+logging:
+  level:
+    org.springframework.security: DEBUG
+
+spring:
+  resources:
+    chain:
+      enabled: true
