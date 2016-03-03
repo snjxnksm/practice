@@ -1,7 +1,7 @@
 
 
 - gradle
-  - [firststep](gradle/gradle/readme.md)
+  - [firststep](gradle/readme.md)
 - springboot
   - oauth2
     - [social-tryfacebook](springboot/oauth2/social-tryfacebook/readme.md)
