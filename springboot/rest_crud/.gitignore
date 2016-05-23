@@ -2,3 +2,8 @@
 /gradle-app.setting
 /.settings
 /bin
+/.classpath
+/.project
+/.settings/gradle.prefs
+/.gradle
+/.settings
