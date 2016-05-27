@@ -9,3 +9,10 @@
   13. 以下、同様にH2、JPA、Lombokを入れる。  
 2. Generate Projectをクリックし、zipファイルをダウンロードする。  
 3. zipファイルの中に、最低限のフォルダ構成と依存関係が記述されたgradle.buildが格納されている。  
+
+## 関連するキーワード
+
+* spring-boot
+* gradle
+* REST
+* lombok
