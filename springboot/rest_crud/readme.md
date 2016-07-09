@@ -1,7 +1,7 @@
 # REST-API サンプル。
 
-SpringBootを使ったREST-APIのサンプル。
-作業用ディレクトリを作成して移動したのち、`git clone`を実行する。
+SpringBootを使ったREST-APIのサンプル。  
+作業用ディレクトリを作成して移動したのち、`git clone`を実行する。  
 ```
 > mkdir c:¥work
 > cd c:¥work
@@ -11,8 +11,8 @@ SpringBootを使ったREST-APIのサンプル。
 
 # ひな形作成
 
-springbootでは、Ruby On Railsにおけるscaffoldに当たる機能がない。
-そのため、最初の雛形の作成は[SPRING INITIALIZR](https://start.spring.io/)で作る。  
+springbootでは、Ruby On Railsにおけるscaffoldに当たる機能がない。  
+そのため、最初の雛形の作成は[SPRING INITIALIZR](https://start.spring.io/)で作る。 
 
 0. Generate a 「Gradle project」とする。  
 1. GroupとArtifactを適当に決める。  
