@@ -2,11 +2,11 @@
 
 SpringBootを使ったREST-APIのサンプル。  
 作業用ディレクトリを作成して移動したのち、`git clone`を実行する。  
-```
+~~~
 > mkdir c:¥work
 > cd c:¥work
 > git clone https://github.com/snjxnksm/practice.git
-```
+~~~
 
 
 # ひな形作成
