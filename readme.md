@@ -1,4 +1,4 @@
-
+Git練習帳
 
 - gradle
   - [firststep](gradle/readme.md)
